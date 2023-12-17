@@ -8,6 +8,7 @@ HI, I'm Reds,
 
 [![KO-FI](https://img.shields.io/badge/Support_me-B80000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Ko-fi.com/reds245)
 [![instagram](https://img.shields.io/badge/instagram-FF9800?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reds.xyz)
+
 [![disord](https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/user/823696550790168597)
 
 <h2>My Stats</h2>
